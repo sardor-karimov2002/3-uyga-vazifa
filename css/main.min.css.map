@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AQCK,AAAD,YAAQ,AAAA,CACJ,QAAQ,CAAE,QAAQ,CAClB,OAAO,CAAE,KAAK,CACd,OAAO,CAAE,EAAE,CACX,UAAU,CAAE,mBAAmB,CAC/B,iBAAiB,CAAE,SAAS,CAC5B,MAAM,CAAE,KAAK,CACb,KAAK,CAAE,KAAK,CACZ,SAAS,CAAE,SAAS,CACvB",
     "sources": [
         "../scss/main.scss",
         "../scss/_fonts.scss",
@@ -10,6 +10,7 @@
         "../scss/all-blocks/_all-blocks.scss",
         "../scss/all-blocks/_container.scss",
         "../scss/all-blocks/_header.scss",
+        "../scss/all-blocks/_main.scss",
         "../scss/all-blocks/_footer.scss"
     ],
     "names": [],
